@@ -1,0 +1,40 @@
+body{
+    direction: rtl;
+background-color:white ; 
+font-family: Arial, Helvetica, sans-serif;
+}
+.loging_box{
+    width: 300px;
+    text-align: center;
+    background-color: white;
+    padding:20px;
+    margin: 100px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc
+
+}
+.loging_box h1{
+    color: #1877f2;
+}
+.loging_box input{
+    width: 90%;
+    padding: 10px;
+    margin:8px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+#sub{
+    width: 95%;
+background-color: #1877f2;
+color:white;
+border-radius: 6px;
+font-size: 17px;
+cursor: pointer;
+}
+.loging_box a{
+    display: block;
+    margin-top: 10px;
+    font-size: 17px;
+    text-decoration:none;
+    color: #1877f2;
+}
